@@ -22,3 +22,4 @@ class APIManager {
         })
     }
 }
+export default APIManager
